@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "793dc576-baf2-475b-bb30-b429eb245a62",
+      "8f77340b-15d8-d699-d926-ac0c28a009d7",
+      "29c9bbea-eb07-a1fe-4b9b-9763c53d611e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Introduction to Electronics, Signals, and Measurement",
+  "course_description": "The course is designed to provide a practical - hands on - introduction to electronics with a focus on measurement and signals. The prerequisites are courses in differential equations, as well as electricity and magnetism. No prior experience with electronics is necessary. The course will integrate demonstrations and laboratory examples with lectures on the foundations. Throughout the course we will use modern \"virtual instruments\" as test-beds for understanding electronics. The aim of the course is to provide students with the practical knowledge necessary to work in a modern science or engineering setting.\n",
+  "department_numbers": [
+    "6",
+    "22"
+  ],
+  "extra_course_numbers": "22.071J",
+  "primary_course_number": "6.071J",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
